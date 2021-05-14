@@ -1,0 +1,362 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-touch">
+<head>
+    <title>42-44 Atkin Avenue, Auckland | Kirsty Graham | Agent Send</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+   <!-- ========== FAVICON & APPLE ICONS ========== -->
+    <link rel="shortcut icon" href="images/favicon.png">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <!-- ========== META TAGS ========== -->
+    <meta name="description" content="Get instant access to property documents for 42-44 Atkin Avenue, Mission Bay, Auckland.">
+    <meta name="keywords" content="software, real estate, mobile app, saas">
+    <meta name="author" content="AgentSend">
+    <!--Loading style vendors-->
+    <link type="text/css" rel="stylesheet" href="/admin/css/oxios.css">
+    <link href="/styles/intlTelInput.min.css" rel="stylesheet">
+    <script src="/admin/js/oxios.js" defer></script>
+    
+    <script src="https://www.google.com/recaptcha/api.js" defer></script>
+    
+    <style type="text/css">
+		a {
+    	color:#651d32 !important;
+    }
+	</style>
+
+    <!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQ6ZMR3');</script>
+<!-- End Google Tag Manager -->
+
+
+    <script>
+      dataLayer.push({
+        'event': 'fireRemarketingTag',
+        'google_tag_params': {
+          'listing_id': 'FROW',
+          'listing_pagetype': 'offerdetail' //always this value for property pages.
+        }
+      });
+    </script>
+
+</head>
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQ6ZMR3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  
+  <div id="termsModal" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content fadeInUp">
+        <div class="modal-header">
+          <h5 class="modal-title">Update Property Address</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">×</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>By accepting these terms and conditions I, as the client, acknowledge:</p>
+          <ol>
+            <li>
+              I have read, fully understood and accepted these terms and conditions on which AgentSend, the agency and the agent make property information available.
+            </li>
+
+            <li>
+            Neither AgentSend, the agent nor the agency make any representation as to the accuracy of information provided to the agent by vendors or third parties except that neither the agent nor AgentSend has any good cause to doubt the accuracy of such information.
+            </li>
+            <li>
+              The agent and AgentSend warrant that all information currently known to the agent and which should fairly be disclosed is disclosed.
+            </li>
+            <li>
+              The information is provided by way of assistance only and on the express basis that I, as the client, will obtain independent legal and expert advice before making any commitment in relation to any property.
+            </li>
+            <li>
+              If I, as the client, elect not to obtain independent legal and expert advice before making any commitment in relation to any property then I will be conclusively deemed to have satisfied myself as to all aspects of the property by my own independent investigations and contrary to the advice of the agent and AgentSend and will buy in reliance solely upon my your own judgment and investigations.
+            </li>
+            <li>
+              I the client consent to collection by AgentSend, the agent and the agency of all registration particulars provided by me and retention of that information for marketing and sales administration purposes.
+            </li>
+            <li>
+              I the client consent to the agent and/or AgentSend sending marketing material to me but on the express basis that I shall be entitled to unsubscribe at any time.
+            </li>
+            
+          </ol>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="wrapper" style="background: linear-gradient(rgba(20, 20, 20, 0.5), rgba(20, 20, 20, 0.5)) 0% 0% / cover, url(https://agentsend-live.s3.ap-southeast-1.amazonaws.com/608b4dfb858f47244c8f9793.png) no-repeat 0% 0% / cover;">
+    <div class="container-fluid container-fluid-lg">
+      <div class="row align-items-center wrapper-fullsize">
+        <div class="col-md-6 col-lg-5 col-xl-4">
+          <div class="box box-borderless">
+            <div class="box-header" style="background-color:#ffffff">
+              <img src="https://agentsend-live.s3.ap-southeast-1.amazonaws.com/608b44cb858f47244c8f96e8%2C608b44cb858f47244c8f96e8_logo.png"  alt="AgentSend" />
+            </div>
+            
+              <div id="formBox"></div>
+              <form class="box-body needs-validation" novalidate action="https://www.agentsend.com/property/enquiry" method="POST" id="enquiryForm">
+                <p class="text-lg">Please provide your details to instantly receive documents and files for  <br /> <strong>42-44 Atkin Avenue</strong></p>
+                <div class="d-flex flex-column align-items-center mb-15">
+                  <div class="fb-login-button" data-width="280px" data-size="large" data-onlogin="handleFBLogin();" data-button-type="continue_with" data-auto-logout-link="false" data-use-continue-as="true" data-scope="public_profile,email"></div>
+                </div>
+                <div class="text-partition justify-content-center">
+                  <span class="text-secondary px-10 mb-5">or</span>
+                </div>
+                <div class="form-group">
+                  <input class="form-control form-control-material" pattern=".*\S.*" required name="first_name" type="text" data-required="true" maxlength="15" value="">
+                  <span class="form-control-label">First Name *</span>
+                </div>
+                <div class="form-group">
+                  <input maxlength="15" class="form-control form-control-material" pattern=".*\S.*" required name="last_name" value="" type="text" data-required= "true"  >
+                  <span class="form-control-label">Last Name *</span>
+                </div>
+                <div class="form-group">
+                  <input class="form-control form-control-material" id="phone" name="mobile_number" value="" type="text" data-required =  "true"  >
+                  <!-- <span class="form-control-label">Mobile Phone *</span> -->
+                </div>
+                <div class="form-group">
+                  <input class="form-control form-control-material" pattern=".*\S.*" required name="email" value="" type="email" data-required="true">
+                  <span class="form-control-label">E-mail *</span>
+                </div>
+                <div class="form-group">
+                  <textarea class="form-control form-control-material" name="comments" rows="2"></textarea>
+                  <span class="form-control-label">Comments (optional)</span>
+
+                  <input class="form-control form-control-material" type="hidden" name="utm_source" value="">
+                  <input class="form-control form-control-material" type="hidden" name="utm_medium" value="">
+                  <input class="form-control form-control-material" type="hidden" name="utm_campaign" value="">
+                  <input class="form-control form-control-material" type="hidden" name="utm_term" value="">
+                  <input class="form-control form-control-material" type="hidden" name="utm_content" value="">
+
+                </div>
+                <div class="form-group">
+                  <label class="form-checkbox-custom">
+                    <input type="checkbox" id="termCheck" required name="term" data-required="true">
+                    <span class="form-label">I Agree to the <a href="#" data-toggle="modal" data-target="#termsModal">terms &amp; conditions of use.</a></span>
+                  </label>
+                </div>
+                <div class="text-danger mb-10" id="confirm-property"></div>
+                <input type="hidden" name="avatar">
+                <input type="hidden" name="property_id" value="608b4dfd858f47244c8f9794">
+                <input type="hidden" name="agent_id" value="608b44cb858f47244c8f96e7">
+                <input type="hidden" name="listingLInk" id="listingLInk" value="">
+                
+                <div class="form-group">
+                  <div class="g-recaptcha" data-sitekey="6Lek9LcUAAAAANK3uTMoeTOvOhWpqlDkL3cVEFNm"></div>
+                </div>
+                
+                <button style="background-color:#651d32" class="btn btn-block text-white mb-10" type="submit" id="enquirySubmit">
+                  <i class="fas fa-paper-plane ml-5"></i>
+                  Send me the files
+                </button>
+              </form>
+            
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-5 offset-lg-2 col-xl-4 offset-xl-4">
+          <div class="box box-borderless">
+            <div class="box-header" style="background-color:#651d32;color:#F9423A">
+              <h3>Agent’s Details</h3>
+            </div>
+            <div class="box-body">
+              <div class="user-panel">
+                <div class="user-panel-image mr-20">
+                  <div class="avatar avatar-lg">
+                    <img src="/admin/images/no-image.jpg"  alt="">
+                  </div>
+                </div>
+                <div class="user-panel-info">
+                  <h3>Kirsty Graham</h3>
+                  <div class="d-block mb-10">
+                    <a class="text-lg" href="tel:021 400 503"><b>021 400 503</b></a>
+                    <small class="text-secondary d-block">Phone</small>
+                  </div>
+                  <a style="background-color:#651d32;" href="mailto:frontroomprojects@gmail.com" class="btn btn-sm text-white btn-block">
+                    Email
+                  </a>
+                </div>
+              </div>
+              <hr>
+              
+              <div class="d-flex justify-content-center align-items-center">
+                
+                <a href="" class="mr-10">
+                  <img style="max-width: 160px;" src="https://agentsend-live.s3.ap-southeast-1.amazonaws.com/608b44cb858f47244c8f96e8%2C608b44cb858f47244c8f96e8_logo.png" alt="AgentSend" />
+                </a>
+                
+                <img src="/admin/images/logo-mutted.png" alt="">
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--loading vendors js-->
+  <script src="/frontend/vendors/jquery-1.10.2.min.js"></script>
+  <script src="/frontend/vendors/bootstrap/js/bootstrap.min.js"></script>
+  <script src="/frontend/vendors/html5shiv.js"></script>
+  <script src="/frontend/vendors/respond.min.js"></script>
+  <script src="/frontend/vendors/modernizr.custom.97074.js"></script>
+  <!--CORE JAVASCRIPT-->
+  <script src="/frontend/js/script.js"></script>
+  <script src="/scripts/intlTelInput.min.js"></script>
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '380293079274191',
+        cookie     : true,
+        xfbml      : true,
+        version    : 'v4.0',
+      });
+
+      FB.AppEvents.logPageView();
+      handleFBLogin();
+    };
+
+    function handleFBLogin() {
+      FB.getLoginStatus(function(response) {
+        if(response.authResponse && response.status === 'connected') {
+          FB.api('/me', {fields: 'email,first_name,last_name,picture'}, function(res) {
+            document.querySelector('input[name="first_name"]').value = res.first_name;
+            document.querySelector('input[name="last_name"]').value = res.last_name;
+            document.querySelector('input[name="email"]').value = res.email;
+            document.querySelector('input[name="avatar"]').value = res.picture.data.url;
+          });
+        }
+      });
+    }
+
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement(s); js.id = id;
+       js.src = "https://connect.facebook.net/en_US/sdk.js";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <script>
+      $(document).ready(function(){
+
+        if (window.location.search.indexOf('?view=basic') === 0) {
+          $('.col-md-6.col-lg-5.offset-lg-2.col-xl-4.offset-xl-4').remove();
+          $('.wrapper').css('background', '#fff');
+          $('body').css('background', '#fff');
+          $('.box.box-borderless').css('box-shadow', 'none');
+          $('.container-fluid.container-fluid-lg')[0].className = '';
+          $('.row.align-items-center.wrapper-fullsize')[0].className = '';
+          $('.box-header').remove();
+          // document.write('<link rel="stylesheet" href="/frontend/css/view-basic.css" />');
+        }
+
+        // Email Validation
+        function isEmail(email) {
+          var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+          return regex.test(email);
+        }
+
+        // Phone Number Entry - Validation & Restriction
+        $("input[name='mobile_number']").keydown( function(e){
+           /* if ($.inArray(e.keyCode, [46, 8, 9, 27, 13, 110, 190]) !== -1 ||
+             // Allow: Ctrl+A, Command+A
+            (e.keyCode === 65 && (e.ctrlKey === true || e.metaKey === true)) ||
+             // Allow: home, end, left, right, down, up
+            (e.keyCode >= 35 && e.keyCode <= 40)) {
+                 // let it happen, don't do anything
+                 return;
+            }*/
+            /*// Ensure that it is a number and stop the keypress
+            if ((e.shiftKey || (e.keyCode < 48 || e.keyCode > 57)) && (e.keyCode < 96 || e.keyCode > 105)) {
+                e.preventDefault();
+            }*/
+        });
+        const telInput = document.querySelector('#phone');
+        const iti = window.intlTelInput(telInput, {
+            utilsScript: '/scripts/utils.js',
+            initialCountry: "auto",
+            geoIpLookup: function(success, failure) {
+              $.ajax({
+                type: 'GET',
+                url: 'https://api.ipstack.com/check?access_key=963c0b15a604cfdcec56baa08226b18b&format=1',
+                success: function(response) {
+                  success(response.country_code);
+                },
+                error: function() {
+                  success('NZ')
+                }
+              });
+            },
+        });
+
+        const form = document.querySelector('#enquiryForm');
+        form.addEventListener('submit', (event) => {
+          event.preventDefault();
+          let hasError = false;
+          if (form.checkValidity() === false) {
+            event.preventDefault();
+            event.stopPropagation();
+            hasError = true;
+          }
+
+          if(!iti.isValidNumber()) {
+            event.preventDefault();
+            event.stopPropagation();
+            telInput.setCustomValidity('invalid');
+            hasError = true;
+          } else {
+            telInput.setCustomValidity('')
+          }
+
+          if(hasError) {
+            return
+          }
+
+          //var data = $("#enquiryForm").serialize();
+          var data = $('#enquiryForm').serializeArray();
+          var countryData = iti.getSelectedCountryData();
+          data.push({name: 'mobile_country_code', value: '+' + countryData.dialCode});
+          // for (var i = 0; i < data.length; i++) {
+          //   if (data[i].name == 'mobile_number') {
+          //     data[i].value = '+' + countryData.dialCode + data[i].value;
+          //   }
+          // }
+           
+            $.ajax({
+              type: "POST",
+              url: $("#enquiryForm").attr('action'),
+              data: data,
+              success: function(response) {
+                  if (response.status == true) {
+                    var listingLink = $("#listingLInk").val();
+                    var html='';
+                    if(listingLink && listingLink!='') {
+                      html="<a href='"+listingLink+"'>Return to the property</a>"
+                    }
+                    else{
+                      html='';
+                    }
+                    $('#formBox').html('<div class="box-body"><h4>Thank you for enquiring</h4>We have sent the information to your email address.</br>If you do not receive the email please check your spam folder.<br>'+html+'</div>');
+                    $('#enquiryForm').html('');
+                  } else {
+                    $('#formBox').html('<div class="alert alert-danger"><h4>Error</h4>There was an error processing your Request: ' + response.description + '. Please try again</div>');
+                  }
+
+              },
+              error: function(jqXHR, textStatus) {
+                  alert('error handing here:' + textStatus);
+              }
+          });
+
+        });
+      })
+  </script>
+</html>
